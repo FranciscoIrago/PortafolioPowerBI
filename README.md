@@ -19,7 +19,7 @@ Consta de los siguientes proyectos:
 El informe de Power BI está estructurado para permitir a los usuarios monitorear el gasto total, 
 identificar los productos y proveedores más costosos, y evaluar la eficiencia de la cadena de suministro.
 
-1. Indicadores Clave y Tendencias (Página de Compras)
+### 1. Indicadores Clave y Tendencias (Página de Compras)
 
 La página principal del informe (Página 2) presenta un resumen ejecutivo del gasto.
 
@@ -28,4 +28,22 @@ La página principal del informe (Página 2) presenta un resumen ejecutivo del g
   - Ranking de Gasto (Proveedor y Producto):
   - Proveedor más Gasto: ML Mountain Pedal es el proveedor con el mayor gasto individual reportado.
   - Producto más Gasto: LL Mountain Pedal o ML Mountain Pedal se encuentran entre los productos con mayor gasto.
-  - Segmentación: El informe permite filtrar y analizar el gasto por Año , Proveedor , Empleado y Categoría
+  - Segmentación: El informe permite filtrar y analizar el gasto por Año , Proveedor , Empleado y Categoría.
+
+### 2. Detalle de Proveedores (Página de Proveedores)
+
+La tercera página ofrece una visión detallada del desempeño individual de los proveedores y la calidad de las compras.
+
+  - Métricas Clave: La tabla central detalla las Cantidad , Precio Unidad , Total Compras , Cantidad Pedida y Cantidad Rechazada.
+  - Eficiencia Logística: Muestra el Tiempo Promedio de Entrega (9.00 días).
+  - Control de Calidad: Se visualiza el total de Pedidos Rechazados (230), lo cual es crucial para evaluar la calidad del proveedor.
+  - Visión General del Gasto: Muestra el Precio Máximo y Precio Medio de los artículos, y el Total de Compras (aproximadamente 29 millones en ese filtro).
+    
+### 3. Distribución y Visualizaciones (Página de Gráficos)
+
+La página final (Página 4) utiliza gráficos para mostrar la distribución del gasto:
+
+  - Distribución por Categorías: Muestra qué categorías de productos consumen la mayor parte del presupuesto (ej. Pedals, Tires and Tubes, Saddles, Brakes). La categoría Pedals representa una parte muy significativa del  total.
+  - Distribución por Proveedores: Muestra la contribución de los principales proveedores al gasto total.
+  - Productos más Comprados: Lista de los productos más adquiridos, como Front Brakes, Rear Brakes, y HL Mountain Tire.
+  - Este proyecto se enfoca en la inteligencia de negocios (BI) aplicada a la gestión de la cadena de suministro, permitiendo una toma de decisiones informada sobre qué, a quién y a qué precio comprar.
