@@ -16,7 +16,7 @@ Consta de los siguientes proyectos:
 
 # Análisis de Compras de la base de datos Adventure Works.
 
-##Menú Principal##
+## Menú Principal 
 
 ![Menu principa](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_portada.png)
 
