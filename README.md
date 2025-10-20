@@ -16,6 +16,8 @@ Consta de los siguientes proyectos:
 
 # Análisis de Compras de la base de datos Adventure Works.
 
+https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_portada.png
+
 El informe de Power BI está estructurado para permitir a los usuarios monitorear el gasto total, 
 identificar los productos y proveedores más costosos, y evaluar la eficiencia de la cadena de suministro.
 
