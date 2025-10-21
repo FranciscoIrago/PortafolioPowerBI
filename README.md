@@ -1,18 +1,11 @@
 # 📊 Proyecto Final – Análisis de Compras (Power BI)
 
+📸  
+![Página Compras](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_portada.png)
+
+
 Este proyecto consiste en el desarrollo de un **dashboard interactivo en Power BI Desktop** enfocado en el **análisis de compras de la empresa AdventureWorks**.  
 El objetivo es ofrecer una visión global y dinámica del rendimiento de las compras, proveedores, empleados y productos, integrando distintos niveles de análisis mediante navegación entre páginas.
-
----
-
-## 🧭 Navegación del Informe
-
-El dashboard principal **“Compras”** actúa como punto de partida e incluye dos botones interactivos:
-
-- 🔹 **Ir al detalle** → lleva a la página **“Detalles Compras”**, centrada en el análisis tabular por proveedor y producto.  
-- 🔹 **Ir al gráfico** → lleva a la página **“Gráficos Compras”**, donde se muestran visualizaciones comparativas y tendencias.
-
-De este modo, el usuario puede explorar la información tanto desde un punto de vista **resumen (KPI)** como **analítico (detalle y gráficos)**.
 
 ---
 
@@ -34,7 +27,7 @@ Incluye además gráficos de:
 - Distribución de compras por proveedor
 
 📸  
-![Página Compras](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_compras.png)
+![Página Compras](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_compras.png)
 
 ---
 
@@ -62,7 +55,7 @@ Ejemplo de indicadores:
 - **Proveedor más rechazado:** International
 
 📸  
-![Detalles Compras]([imagenes/detalles_compras.png](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_detalle.png))
+![Detalles Compras](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_detalle.png)
 
 ---
 
@@ -77,7 +70,7 @@ Incluye:
 - Ranking de productos más comprados (HL Crankarm, ML Mountain Pedal, ML Road Pedal, etc.).
 
 📸  
-![Gráficos Compras](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_graf.png)
+![Gráficos Compras](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_graf.png)
 
 ---
 
@@ -91,7 +84,7 @@ Analiza las compras realizadas por cada empleado (Buyer), destacando:
 Este análisis permite identificar a los **empleados con mayor volumen de gestión de compras** y su contribución total.
 
 📸  
-![Empleados](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_empleados.png)
+![Empleados](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_empleados.png)
 
 ---
 
@@ -104,7 +97,7 @@ Sección dedicada al rendimiento de los proveedores:
 - Evolución mensual de las compras por proveedor.
 
 📸  
-![Proveedores](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_proveedores.png)
+![Proveedores](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_proveedores.png)
 
 ---
 
@@ -136,6 +129,8 @@ Proyecto final desarrollado como parte de la formación en **análisis y visuali
 [![Ver demo del proyecto](https://img.shields.io/badge/🎬%20Ver%20Demo-%23FF0000?style=for-the-badge)](ENLACE_A_TU_VIDEO_O_IMAGEN)
 
 # 🏋️‍♂️ Proyecto Personal Trainer – Seguimiento de Entrenamiento y Nutrición (Power BI)
+
+![Portada](https://github.com/FranciscoIrago/assets/blob/main/trainer/Protada.png)
 
 Este proyecto consiste en el desarrollo de un **dashboard interactivo en Power BI Desktop** diseñado para realizar el **seguimiento del progreso físico, la rutina de entrenamiento y la dieta personal**.  
 El objetivo es visualizar de manera integrada los avances en fuerza, peso corporal, pasos diarios, calorías quemadas y consumo calórico, permitiendo analizar la evolución tanto en el ámbito deportivo como nutricional.
@@ -171,7 +166,7 @@ Incluye indicadores generales y visualizaciones por ejercicio y grupo muscular.
 - **Calorías quemadas:** 35.000  
 
 📸  
-![Rutina](imagenes/rutina.png)
+![Rutina](https://github.com/FranciscoIrago/assets/blob/main/trainer/rutina.png)
 
 ---
 
@@ -192,7 +187,7 @@ Permite analizar el equilibrio entre calorías ingeridas y calorías quemadas, a
 - Seguimiento semanal del balance calórico.
 
 📸  
-![Dieta](imagenes/dieta.png)
+![Dieta](https://github.com/FranciscoIrago/assets/blob/main/trainer/dieta.png)
 
 ---
 
@@ -209,7 +204,7 @@ Página resumen del progreso físico general, combinando la información de la r
 Incluye gráficos temporales que reflejan la tendencia de mejora y el déficit calórico acumulado, ofreciendo una visión global de la evolución durante el periodo de entrenamiento.
 
 📸  
-![Evolución](imagenes/evolucion.png)
+![Evolución](https://github.com/FranciscoIrago/assets/blob/main/trainer/ejercicio.png)
 
 ---
 
