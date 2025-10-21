@@ -134,3 +134,91 @@ Proyecto final desarrollado como parte de la formación en **análisis y visuali
 *(Puedes añadir aquí un enlace o imagen de tu dashboard si lo subes a GitHub o lo presentas en vídeo)*
 
 [![Ver demo del proyecto](https://img.shields.io/badge/🎬%20Ver%20Demo-%23FF0000?style=for-the-badge)](ENLACE_A_TU_VIDEO_O_IMAGEN)
+
+# 🏋️‍♂️ Proyecto Personal Trainer – Seguimiento de Entrenamiento y Nutrición (Power BI)
+
+Este proyecto consiste en el desarrollo de un **dashboard interactivo en Power BI Desktop** diseñado para realizar el **seguimiento del progreso físico, la rutina de entrenamiento y la dieta personal**.  
+El objetivo es visualizar de manera integrada los avances en fuerza, peso corporal, pasos diarios, calorías quemadas y consumo calórico, permitiendo analizar la evolución tanto en el ámbito deportivo como nutricional.
+
+---
+
+## 🧭 Navegación del Informe
+
+El informe está compuesto por tres secciones principales, accesibles desde el panel superior del dashboard:
+
+- 💪 **Rutina:** seguimiento de entrenamiento, fuerza y volumen de trabajo.  
+- 🍽️ **Dieta:** análisis nutricional diario y semanal.  
+- 📈 **Evolución:** resumen general del progreso físico y calórico.
+
+---
+
+## 💪 **1. Rutina**
+
+Esta página permite analizar la planificación y ejecución del entrenamiento.  
+Incluye indicadores generales y visualizaciones por ejercicio y grupo muscular.
+
+### 🔹 Principales indicadores:
+- **Nombre del usuario:** Francisco Irago Lechuga  
+- **Peso inicial:** 100 kg  
+- **Peso final:** 80 kg  
+- **Tipo de entrenamiento:** Fuerza  
+- **Duración:** desde el 01/01/2025  
+- **Frecuencia:** 4 días por semana  
+
+### 📊 Métricas destacadas:
+- Evolución del peso levantado en **Press Banca** (de 80 a 100 kg)  
+- **Pasos totales:** 254.000  
+- **Calorías quemadas:** 35.000  
+
+📸  
+![Rutina](imagenes/rutina.png)
+
+---
+
+## 🍽️ **2. Dieta**
+
+Muestra la composición nutricional diaria y semanal, con desgloses por comida (desayuno, comida, merienda, cena).  
+Permite analizar el equilibrio entre calorías ingeridas y calorías quemadas, así como la distribución de macronutrientes.
+
+### 🔹 Principales indicadores:
+- **Calorías totales ingeridas:** 7.821 kcal  
+- **Calorías quemadas:** 26.240 kcal  
+- **Déficit calórico acumulado:** 18.420 kcal  
+- **Peso perdido:** 2,63 kg  
+
+### 📋 Estructura del análisis:
+- Comparativa de calorías, carbohidratos, proteínas, grasas y fibra por comida.  
+- Control de días y horarios de ingesta.  
+- Seguimiento semanal del balance calórico.
+
+📸  
+![Dieta](imagenes/dieta.png)
+
+---
+
+## 📈 **3. Evolución**
+
+Página resumen del progreso físico general, combinando la información de la rutina y la dieta.
+
+### 🔹 Indicadores principales:
+- **Evolución del peso corporal.**  
+- **Progreso de fuerza (por ejercicio).**  
+- **Balance energético:** comparación entre calorías ingeridas y quemadas.  
+- **Pasos diarios promedio y actividad física general.**
+
+Incluye gráficos temporales que reflejan la tendencia de mejora y el déficit calórico acumulado, ofreciendo una visión global de la evolución durante el periodo de entrenamiento.
+
+📸  
+![Evolución](imagenes/evolucion.png)
+
+---
+
+## 🧠 **Objetivos del Proyecto**
+- Crear una herramienta visual que permita **controlar el progreso físico y nutricional** de forma sencilla e intuitiva.  
+- Centralizar los datos de **entrenamiento, dieta y evolución corporal** en un único panel.  
+- Facilitar la **toma de decisiones deportivas** (ajustes de dieta, peso de trabajo, frecuencia de entrenamiento).  
+- Motivar al usuario mediante el seguimiento del rendimiento y la evolución real de resultados.
+
+---
+
+##
