@@ -38,6 +38,14 @@ Incluye además gráficos de:
 
 ---
 
+El dashboard principal **“Compras”** actúa como punto de partida e incluye dos botones interactivos:
+
+- 🔹 **Ir al detalle** → lleva a la página **“Detalles Compras”**, centrada en el análisis tabular por proveedor y producto.  
+- 🔹 **Ir al gráfico** → lleva a la página **“Gráficos Compras”**, donde se muestran visualizaciones comparativas y tendencias.
+
+De este modo, el usuario puede explorar la información tanto desde un punto de vista **resumen (KPI)** como **analítico (detalle y gráficos)**.
+
+
 ## 📋 **2. Detalles Compras**
 
 Página de análisis en profundidad, accesible desde el botón **“Ir al detalle”**.
