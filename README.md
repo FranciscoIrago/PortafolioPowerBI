@@ -62,7 +62,7 @@ Ejemplo de indicadores:
 - **Proveedor más rechazado:** International
 
 📸  
-![Detalles Compras](imagenes/detalles_compras.png)
+![Detalles Compras]([imagenes/detalles_compras.png](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_detalle.png))
 
 ---
 
