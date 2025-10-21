@@ -1,53 +1,128 @@
-# Portafolio Power BI
+# 📊 Proyecto Final – Análisis de Compras (Power BI)
 
-## Presentación
+Este proyecto consiste en el desarrollo de un **dashboard interactivo en Power BI Desktop** enfocado en el **análisis de compras de la empresa AdventureWorks**.  
+El objetivo es ofrecer una visión global y dinámica del rendimiento de las compras, proveedores, empleados y productos, integrando distintos niveles de análisis mediante navegación entre páginas.
 
-Hola soy Francisco Irago, Graduado en Economía y especializado como Administrador de Bases de Datos y DATA ANALYTICS &amp; BIG DATA.
+---
 
-En este repositorio he ido añádiendo los proyectos elaborados después de terminar mi formación en Abril de 2025.
+## 🧭 Navegación del Informe
 
-Consta de los siguientes proyectos:
+El dashboard principal **“Compras”** actúa como punto de partida e incluye dos botones interactivos:
 
-  1. Proyecto Final Bootcamp: Análisis de Compras de la base de datos Adventure Works.
-  2. Análisis Estadísticas deportivas.
-  3. App preparador físico.
-  4. Análisis Venta tienda de informática.
-  5. Dashboard financiero: Balance y PyG.
+- 🔹 **Ir al detalle** → lleva a la página **“Detalles Compras”**, centrada en el análisis tabular por proveedor y producto.  
+- 🔹 **Ir al gráfico** → lleva a la página **“Gráficos Compras”**, donde se muestran visualizaciones comparativas y tendencias.
 
-# Análisis de Compras de la base de datos Adventure Works.
+De este modo, el usuario puede explorar la información tanto desde un punto de vista **resumen (KPI)** como **analítico (detalle y gráficos)**.
 
-## Menú Principal 
+---
 
-![Menu principa](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_portada.png)
+## 🏠 **1. Compras (Página principal)**
 
-El informe de Power BI está estructurado para permitir a los usuarios monitorear el gasto total, 
-identificar los productos y proveedores más costosos, y evaluar la eficiencia de la cadena de suministro.
+Presenta los principales indicadores y filtros de análisis:
 
-### 1. Indicadores Clave y Tendencias (Página de Compras)
+- 💰 **Importe total de compras:** 63,8 millones €  
+- 📦 **Número total de compras:** 4.012  
+- 🏆 **Proveedor más comprado:** Superior Bicycles  
+- 🧾 **Producto más comprado:** HL Crankarm  
+- 💶 **Precio medio:** 34,74 €  
+- ⚠️ **Porcentaje de cantidad rechazada:** 3,10 %  
+- 🚚 **Método de envío más utilizado:** Cargo Transport 5 (63,59 %)
 
-La página principal del informe (Página 2) presenta un resumen ejecutivo del gasto.
+Incluye además gráficos de:
+- Evolución mensual de compras (comparativa año actual vs. año anterior)
+- Compras por categoría y subcategoría
+- Distribución de compras por proveedor
 
-  - Total Compras: El total de compras asciende a 63.79 millones (o 64 mill. ).
-  - Variación Anual: Aunque los datos mostrados en la tabla parecen ser de un solo periodo (con variación anual de 0%), el objetivo es monitorizar la tendencia, la variación anual y el porcentaje de variación anual.
-  - Ranking de Gasto (Proveedor y Producto):
-  - Proveedor más Gasto: ML Mountain Pedal es el proveedor con el mayor gasto individual reportado.
-  - Producto más Gasto: LL Mountain Pedal o ML Mountain Pedal se encuentran entre los productos con mayor gasto.
-  - Segmentación: El informe permite filtrar y analizar el gasto por Año , Proveedor , Empleado y Categoría.
+📸  
+![Página Compras](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_compras.png
 
-### 2. Detalle de Proveedores (Página de Proveedores)
+---
 
-La tercera página ofrece una visión detallada del desempeño individual de los proveedores y la calidad de las compras.
+## 📋 **2. Detalles Compras**
 
-  - Métricas Clave: La tabla central detalla las Cantidad , Precio Unidad , Total Compras , Cantidad Pedida y Cantidad Rechazada.
-  - Eficiencia Logística: Muestra el Tiempo Promedio de Entrega (9.00 días).
-  - Control de Calidad: Se visualiza el total de Pedidos Rechazados (230), lo cual es crucial para evaluar la calidad del proveedor.
-  - Visión General del Gasto: Muestra el Precio Máximo y Precio Medio de los artículos, y el Total de Compras (aproximadamente 29 millones en ese filtro).
-    
-### 3. Distribución y Visualizaciones (Página de Gráficos)
+Página de análisis en profundidad, accesible desde el botón **“Ir al detalle”**.
 
-La página final (Página 4) utiliza gráficos para mostrar la distribución del gasto:
+Permite examinar:
+- La relación entre proveedores, cantidades y precios.  
+- Porcentaje de productos rechazados.  
+- Totales de compras por proveedor y producto.  
+- Identificación de **proveedores con mayor volumen de compras o incidencias**.  
 
-  - Distribución por Categorías: Muestra qué categorías de productos consumen la mayor parte del presupuesto (ej. Pedals, Tires and Tubes, Saddles, Brakes). La categoría Pedals representa una parte muy significativa del  total.
-  - Distribución por Proveedores: Muestra la contribución de los principales proveedores al gasto total.
-  - Productos más Comprados: Lista de los productos más adquiridos, como Front Brakes, Rear Brakes, y HL Mountain Tire.
-  - Este proyecto se enfoca en la inteligencia de negocios (BI) aplicada a la gestión de la cadena de suministro, permitiendo una toma de decisiones informada sobre qué, a quién y a qué precio comprar.
+Ejemplo de indicadores:
+- **Precio medio general:** 34,74 €  
+- **Precio máximo:** 82,83 €  
+- **Proveedor más rechazado:** International
+
+📸  
+![Detalles Compras](imagenes/detalles_compras.png)
+
+---
+
+## 📊 **3. Gráficos Compras**
+
+Página accesible desde el botón **“Ir al gráfico”**, centrada en la visualización dinámica.
+
+Incluye:
+- Gráficos comparativos entre **productos**, **categorías** y **empleados**.  
+- Evolución mensual de las compras (Total vs. LY).  
+- Distribución del gasto por proveedor.  
+- Ranking de productos más comprados (HL Crankarm, ML Mountain Pedal, ML Road Pedal, etc.).
+
+📸  
+![Gráficos Compras](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_graf.png
+
+---
+
+## 👥 **4. Empleados**
+
+Analiza las compras realizadas por cada empleado (Buyer), destacando:
+- Total de compras por persona.  
+- Productos más comprados por empleado.  
+- Evolución mensual del gasto individual.
+
+Este análisis permite identificar a los **empleados con mayor volumen de gestión de compras** y su contribución total.
+
+📸  
+![Empleados](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_empleados.png)
+
+---
+
+## 🏢 **5. Proveedores**
+
+Sección dedicada al rendimiento de los proveedores:
+- **Distribución de las compras por proveedor.**  
+- **Productos suministrados y su importe total.**  
+- Comparación de proveedores clave (Superior Bicycles, Professional Athletic Consultants, Chicago City Saddles, etc.).  
+- Evolución mensual de las compras por proveedor.
+
+📸  
+![Proveedores]([imagenes/proveedores.png](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_proveedores.png))
+
+---
+
+## 🧠 **Objetivos del Proyecto**
+- Ofrecer una **visión integral de las compras** y su evolución temporal.  
+- Facilitar la **toma de decisiones** basada en indicadores de rendimiento.  
+- Evaluar la **eficiencia de proveedores y empleados** en el proceso de compra.  
+- Identificar oportunidades de mejora en los **costes y logística de envío**.
+
+---
+
+## 🛠️ **Herramientas Utilizadas**
+- **Power BI Desktop**  
+- **Microsoft SQL Server (AdventureWorks)**  
+- **Modelado de datos y medidas DAX**  
+- **Diseño de navegación con botones y filtros dinámicos**
+
+---
+
+## 👤 **Autor**
+**Francisco Irago**  
+Proyecto final desarrollado como parte de la formación en **análisis y visualización de datos con Power BI**.
+
+---
+
+### 🎥 **Vista Previa del Proyecto**
+*(Puedes añadir aquí un enlace o imagen de tu dashboard si lo subes a GitHub o lo presentas en vídeo)*
+
+[![Ver demo del proyecto](https://img.shields.io/badge/🎬%20Ver%20Demo-%23FF0000?style=for-the-badge)](ENLACE_A_TU_VIDEO_O_IMAGEN)
