@@ -96,7 +96,7 @@ Sección dedicada al rendimiento de los proveedores:
 - Evolución mensual de las compras por proveedor.
 
 📸  
-![Proveedores]([imagenes/proveedores.png](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_proveedores.png)
+![Proveedores](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_proveedores.png)
 
 ---
 
