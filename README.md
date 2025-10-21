@@ -34,7 +34,7 @@ Incluye además gráficos de:
 - Distribución de compras por proveedor
 
 📸  
-![Página Compras](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_compras.png
+![Página Compras](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_compras.png)
 
 ---
 
@@ -69,7 +69,7 @@ Incluye:
 - Ranking de productos más comprados (HL Crankarm, ML Mountain Pedal, ML Road Pedal, etc.).
 
 📸  
-![Gráficos Compras](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_graf.png
+![Gráficos Compras](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_graf.png)
 
 ---
 
@@ -96,7 +96,7 @@ Sección dedicada al rendimiento de los proveedores:
 - Evolución mensual de las compras por proveedor.
 
 📸  
-![Proveedores]([imagenes/proveedores.png](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_proveedores.png))
+![Proveedores]([imagenes/proveedores.png](https://github.com/FranciscoIrago/PortafolioPowerBI/blob/main/assets/adventure_proveedores.png)
 
 ---
 
