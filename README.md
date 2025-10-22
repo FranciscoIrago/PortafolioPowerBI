@@ -1,6 +1,5 @@
 # 📊 Proyecto Final – Análisis de Compras (Power BI)
-
-📸  
+  
 ![Página Compras](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_portada.png)
 
 
@@ -26,7 +25,7 @@ Incluye además gráficos de:
 - Compras por categoría y subcategoría
 - Distribución de compras por proveedor
 
-📸  
+  
 ![Página Compras](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_compras.png)
 
 ---
@@ -54,7 +53,7 @@ Ejemplo de indicadores:
 - **Precio máximo:** 82,83 €  
 - **Proveedor más rechazado:** International
 
-📸  
+ 
 ![Detalles Compras](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_detalle.png)
 
 ---
@@ -69,7 +68,7 @@ Incluye:
 - Distribución del gasto por proveedor.  
 - Ranking de productos más comprados (HL Crankarm, ML Mountain Pedal, ML Road Pedal, etc.).
 
-📸  
+ 
 ![Gráficos Compras](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_graf.png)
 
 ---
@@ -83,7 +82,7 @@ Analiza las compras realizadas por cada empleado (Buyer), destacando:
 
 Este análisis permite identificar a los **empleados con mayor volumen de gestión de compras** y su contribución total.
 
-📸  
+ 
 ![Empleados](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_empleados.png)
 
 ---
@@ -96,7 +95,7 @@ Sección dedicada al rendimiento de los proveedores:
 - Comparación de proveedores clave (Superior Bicycles, Professional Athletic Consultants, Chicago City Saddles, etc.).  
 - Evolución mensual de las compras por proveedor.
 
-📸  
+
 ![Proveedores](https://github.com/FranciscoIrago/assets/blob/main/adventure/adventure_proveedores.png)
 
 ---
