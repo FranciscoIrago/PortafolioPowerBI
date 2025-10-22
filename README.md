@@ -217,3 +217,58 @@ Incluye gráficos temporales que reflejan la tendencia de mejora y el déficit c
 ---
 
 ##
+
+# Dashboard de Estadísticas de Fútbol ⚽
+
+## Descripción del Proyecto
+
+![Portada](https://github.com/FranciscoIrago/assets/blob/main/futbol/1Portada.png)
+
+[cite_start]Este proyecto presenta un dashboard interactivo enfocado en el análisis detallado de estadísticas de **Fútbol** (FOOTBAL)[cite: 6]. El objetivo es proporcionar una visualización clara y profunda del rendimiento de equipos y jugadores a lo largo de varias temporadas y competiciones. [cite_start]El dashboard incluye secciones para Equipos [cite: 3][cite_start], Ligas [cite: 4] [cite_start]y Jugadores[cite: 5].
+
+## Características Principales
+
+El dashboard se compone de varias secciones clave, diseñadas para ofrecer una perspectiva completa de las métricas deportivas:
+
+### 1. Vista General del Equipo
+
+* [cite_start]**Resumen de Puntos y Goles:** Muestra los puntos acumulados (e.g., 322 (44,72%) [cite: 14, 15] [cite_start]y 398 (55,28%) [cite: 28][cite_start]) y los goles totales [cite: 35, 40][cite_start], con una distribución de Goles (e.g., Global [cite: 31][cite_start], Local [cite: 32, 36][cite_start], Visitante [cite: 33]).
+* [cite_start]**Análisis Histórico por Temporada:** Una tabla detallada que compara el rendimiento a lo largo de múltiples temporadas (e.g., 2008/2009 hasta 2015/2016)[cite: 37].
+    * [cite_start]**Métricas incluidas:** Temporada [cite: 37][cite_start], Puntos [cite: 24, 30, 37][cite_start], Victorias [cite: 37][cite_start], Empates [cite: 37][cite_start], Derrotas [cite: 37][cite_start], Goles Marcados (GMarc) [cite: 37][cite_start], Goles Recibidos (GReci) [cite: 37] [cite_start]y Diferencia de Goles (GDiff)[cite: 37].
+    * [cite_start]**Temporada con más puntos:** Se destaca la 2011/2012 con 100 puntos[cite: 29, 30].
+* [cite_start]**Contexto de la Competición:** La Liga mostrada es "Spain LIGA BBVA" [cite: 18, 129] [cite_start]y el Equipo es "Real Madrid CF" (parcialmente visible)[cite: 20].
+
+![Equipos](https://github.com/FranciscoIrago/assets/blob/main/futbol/2Equipos.png)
+
+### 2. Rendimiento Individual de Jugadores
+
+* [cite_start]**Perfil de Cristiano Ronaldo:** Muestra una ficha de rendimiento detallada para el jugador [cite: 61, 66][cite_start], para la Temporada **2011/2012** [cite: 64, 76] [cite_start]y la liga **Spain LIGA BBVA**[cite: 62, 63].
+* **Métricas Clave:**
+    * [cite_start]Estadísticas de **Goles (46)** [cite: 65] [cite_start]y **Penaltys (12)**[cite: 83, 84].
+    * [cite_start]**Overall:** 91,28[cite: 87, 88].
+    * [cite_start]**Atributos de Habilidad:** Presentados en un gráfico de radar y desglosados con puntuaciones numéricas: Velocidad (93,76) [cite: 89][cite_start], Salto (93,04) [cite: 90, 91][cite_start], Potencia de Disparo (92,76) [cite: 92][cite_start], Regate (92,64) [cite: 93, 94][cite_start], Aceleración (91,64) [cite: 96][cite_start], Definición (91,12) [cite: 97][cite_start], Tiro Lejano (89,88) [cite: 99, 103][cite_start], Remate de Cabeza (85,52) [cite: 100, 104][cite_start], Penalties (83,60) [cite: 109, 111][cite_start], Pase Corto (82,28) [cite: 110, 112][cite_start], Faltas (81,64) [cite: 114, 115][cite_start], y Pase Largo (71,72)[cite: 113].
+
+![Jugadores](https://github.com/FranciscoIrago/assets/blob/main/futbol/3Jugadores.png)
+
+### 3. Análisis de Factores de Éxito
+
+* [cite_start]**Elementos Influyentes Clave:** Identifica los "Elementos influyentes clave" y "Segmentos principales" [cite: 117] [cite_start]que impactan en el "Nivel Victorias"[cite: 118].
+* **Análisis Condicional (Probabilidad de Victoria Alta):**
+    * [cite_start]Cuando `defence Team Width` sube, la probabilidad se incrementa 2.57x (con un valor de 10.33)[cite: 120, 121, 127].
+    * [cite_start]Cuando `buildUpPlaySpeed` sube (13.11), el incremento es 2.28x[cite: 131, 132, 133].
+    * [cite_start]Cuando `chanceCreationPositioning...` es Free Form, el incremento es 2.10x[cite: 136, 137, 138].
+    * [cite_start]Se observa que cuando `defence Team Width` aumenta, la probabilidad de que Nivel Victorias sea Alta también lo hace[cite: 144].
+
+![Stats](https://github.com/FranciscoIrago/assets/blob/main/futbol/4Stats.png)
+
+## Tecnologías Utilizadas
+
+* [Lista las tecnologías que has usado, por ejemplo: Python, Pandas, Matplotlib/Seaborn, Dash/Plotly, React, etc.]
+
+## Instalación y Uso
+
+[Instrucciones claras sobre cómo clonar el repositorio, instalar dependencias y ejecutar el dashboard localmente.]
+
+## Contribuciones
+
+[Información sobre cómo otros pueden contribuir al proyecto.]
