@@ -115,18 +115,6 @@ Sección dedicada al rendimiento de los proveedores:
 - **Modelado de datos y medidas DAX**  
 - **Diseño de navegación con botones y filtros dinámicos**
 
----
-
-## 👤 **Autor**
-**Francisco Irago**  
-Proyecto final desarrollado como parte de la formación en **análisis y visualización de datos con Power BI**.
-
----
-
-### 🎥 **Vista Previa del Proyecto**
-*(Puedes añadir aquí un enlace o imagen de tu dashboard si lo subes a GitHub o lo presentas en vídeo)*
-
-[![Ver demo del proyecto](https://img.shields.io/badge/🎬%20Ver%20Demo-%23FF0000?style=for-the-badge)](ENLACE_A_TU_VIDEO_O_IMAGEN)
 
 # 🏋️‍♂️ Proyecto Personal Trainer – Seguimiento de Entrenamiento y Nutrición (Power BI)
 
